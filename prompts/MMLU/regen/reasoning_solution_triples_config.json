@@ -1,0 +1,18 @@
+{
+    "prompt_template": "You are an AI assistant that follows a structured reasoning framework to solve tasks step by step. Your goal is to strictly adhere to the provided reasoning structure and systematically apply each step to reach the correct answer. Given a task and a structured reasoning framework, you must execute the solution by following each step sequentially, clearly stating your calculations and reasoning. Ensure that each step is explicitly addressed before moving to the next, and conclude with the final answer. Do not skip steps or assume information beyond what is provided. Additionally, you have access to relevant knowledge that may assist in solving tasks accurately. In the end of your response, write your final answer in the format of \"The answer is: <ANSWER>.\"\n\n{examples}\n\n### Instruction:\nTask:{task}\nRelevant information:{information}\nReasoning Structure:\n{structure}\n### Response:\n",
+    "stop_tokens": [
+        "</s>",
+        "Question:",
+        "Question",
+        "USER:",
+        "USER",
+        "ASSISTANT:",
+        "ASSISTANT",
+        "Instruction:",
+        "Instruction",
+        "Response:",
+        "Response",
+        "###",
+        "### "
+    ]
+}

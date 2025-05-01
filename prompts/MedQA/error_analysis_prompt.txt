@@ -1,0 +1,41 @@
+Your goal is to read the full reasoning trace  for each question and assign a label (CORRECT or INCORRECT) to each step in the System 2 pipeline. You are encouraged to briefly explain your label if a step is marked INCORRECT, but a comment is optional.
+Instructions
+For each question, you will be provided with the following information:
+Question: The original multiple-choice question (clinical/medical).
+Gold Answer: The correct final answer.
+Plan: A list of questions or subgoals generated to guide the reasoning.
+Search Queries: A list of search queries to retrieve helpful knowledge.
+Raw Search Results: Retrieved text snippets from external sources (e.g., textbooks, guidelines).
+Processed Search Results: Extracted or summarized key points relevant to the question.
+Initial Hypothesis: The initial hypothesis for the question
+Integrated Hypothesis: The refined hypothesis after integrating multiple pieces of evidence.
+Conclusion: The final answer and justification.
+Component:
+Plan: Is the breakdown to subquestions correct?
+Query: Is the list of queries reasonable and adequate to retrieve information?
+Raw Search Results: Are the list of retrieved documents enough to answer the question?
+Processed Search Results: Are the documents after processed more smoonthly and contain enough information to answer the question?
+Initial Hypothesis: Are the initial hypothesis for the question reasonable?
+Integrated Hypothesis: Are the integrated hypothesis make sense?
+Conclusion: Is the conclusion correct?
+You should mark each of the following stages as CORRECT or INCORRECT start from Plan, based on whether that step made appropriate and relevant contributions toward reaching the correct answer:
+After evaluation, make a suggestion how to correct the components or additional steps need to take to lead to correct answer.
+Question:
+{question}
+Gold Answer:
+{answer}
+Plan:
+{plan}
+Search Queries:
+{query}
+Raw Search Results:
+{raw}
+Processed Search Results:
+{processed}
+Initial Hypothesis:
+{initial}
+Integrated Hypothesis:
+{integrated}
+Conclusion:
+{conclusion}
+Now let evaluate each components start from Plan and let me know which ones are incorrect, after evaluate, make a suggestion to how to correct the mistakes:

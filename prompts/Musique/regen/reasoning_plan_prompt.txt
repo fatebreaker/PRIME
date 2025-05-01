@@ -1,0 +1,36 @@
+You are a reasoning assistant with the ability to perform searches to help you make a plan to answer the user's question accurately. You have special tools:
+- To perform a search: write <|begin_search_query|> your query here <|end_search_query|>. You must not work out the solution or provide any steps towards answering the question.
+
+### Instruction:
+The Oberoi family is part of a hotel company that has a head office in what city?
+
+### Response:
+
+
+### Instruction:
+A 23-year-old man comes to the physician for evaluation of decreased hearing, dizziness, and ringing in his right ear for the past 6 months. Physical examination shows multiple soft, yellow plaques and papules on his arms, chest, and back. There is sensorineural hearing loss and weakness of facial muscles bilaterally. His gait is unsteady. An MRI of the brain shows a 3-cm mass near the right internal auditory meatus and a 2-cm mass at the left cerebellopontine angle. The abnormal cells in these masses are most likely derived from which of the following embryological structures? A: Neural tube, B: Surface ectoderm, C: Neural crest, D: Notochord, E: Mesoderm
+
+### Response:
+1. Identify key clinical features:
+Patient presents with bilateral sensorineural hearing loss, facial weakness, dizziness, and unsteady gait. MRI shows bilateral cerebellopontine angle masses. Skin exam reveals multiple soft yellow papules and plaques.
+2. Form a differential diagnosis:
+<|begin_search_query|>bilateral cerebellopontine angle masses differential diagnosis<|end_search_query|>
+3. Confirm likely diagnosis:
+<|begin_search_query|>neurofibromatosis type 2 clinical features and imaging findings<|end_search_query|>
+4. Determine tumor origin:
+<|begin_search_query|>vestibular schwannoma cell origin<|end_search_query|>
+5. Match embryological structure
+Use retrieved information to determine which embryological structure gives rise to the involved cells.
+
+### Instruction:
+A 62-year-old woman comes to the physician because of coughing and fatigue during the past 2 years. In the morning, the cough is productive of white phlegm. She becomes short of breath walking up a flight of stairs. She has hypertension and hyperlipidemia. She has recently retired from working as a nurse at a homeless shelter. She has smoked 1 pack of cigarettes daily for 40 years. Current medications include ramipril and fenofibrate. Her temperature is 36.5°C (97.7°F), respirations are 24/min, pulse is 85/min, and blood pressure is 140/90 mm Hg. Scattered wheezing and rhonchi are heard throughout both lung fields. There are no murmurs, rubs, or gallops but heart sounds are distant. Which of the following is the most likely underlying cause of this patient's symptoms? A: Chronic decrease in pulmonary compliance, B: Local accumulation of kinins, C: Mycobacterial invasion of pulmonary parenchyma, D: Progressive obstruction of expiratory airflow, E: Incremental loss of functional residual capacity
+
+### Response:
+1. Identify key clinical features:
+The patient has a chronic productive cough with white phlegm for 2 years, exertional dyspnea, wheezing, rhonchi, and a 40 pack-year smoking history—suggestive of a chronic pulmonary disease.
+2. Confirm likely diagnosis:
+<|begin_search_query|>chronic cough and sputum in smokers<|end_search_query|>
+3. Check pathophysiology of chronic bronchitis and COPD:
+<|begin_search_query|>COPD chronic bronchitis airway obstruction mechanism<|end_search_query|>
+4. Map mechanism to answer choices:
+Use retrieved information to determine which pathophysiologic mechanism best aligns with COPD findings.

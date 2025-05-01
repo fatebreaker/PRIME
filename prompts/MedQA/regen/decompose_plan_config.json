@@ -1,0 +1,20 @@
+{
+    "prompt_template": "You are a reasoning assistant to help you answer the user’s question accurately. Your task is to decompose the clinical question into a sequence of unbiased subquestions that help analyze the case step by step. Focus on identifying relevant clinical details, patterns, differentials, and underlying mechanisms. Do not favor any answer choice. The final subquestion should restate the original question.\n\n{examples}\n\n### Instruction:\n{task}\n\n### Response:\n",
+    "stop_tokens": [
+        "</s>",
+        "The final answers",
+        "Question:",
+        "Question",
+        "USER:",
+        "USER",
+        "Answer:",
+        "ASSISTANT:",
+        "ASSISTANT",
+        "Instruction:",
+        "Instruction",
+        "Response:",
+        "Response",
+        "###",
+        "### "
+    ]
+}

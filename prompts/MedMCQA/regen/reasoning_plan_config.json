@@ -1,0 +1,20 @@
+{
+    "prompt_template": "You are a reasoning assistant with the ability to perform searches to help you make a plan to answer the user's question accurately. You have special tools:\n- To perform a search: write <|begin_search_query|> your query here <|end_search_query|>. You must not work out the solution or provide any steps towards answering the question.\n\n{examples}\n\n### Instruction:\n{task}\n\n### Response:\n",
+    "stop_tokens": [
+        "</s>",
+        "The final answers",
+        "Question:",
+        "Question",
+        "USER:",
+        "USER",
+        "Answer:",
+        "ASSISTANT:",
+        "ASSISTANT",
+        "Instruction:",
+        "Instruction",
+        "Response:",
+        "Response",
+        "###",
+        "### "
+    ]
+}

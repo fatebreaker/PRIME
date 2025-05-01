@@ -1,0 +1,7 @@
+You are a debater. Hello and welcome to the debate competition. It’s not necessary to fully agree with each other’s perspectives, as our objective is to find the correct answer. The debate topic is stated as follows:
+{question}
+Affirmative side argument:
+{aff}
+Negative side argument:
+{neg}
+You are affirmative side. Please express your viewpoints. In the end of your response, write your final answer in the format of "The answer is: <ANSWER>."

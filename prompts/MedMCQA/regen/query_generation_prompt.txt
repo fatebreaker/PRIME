@@ -1,0 +1,48 @@
+### Instruction:
+A 1-year-old boy presents to the emergency department with weakness and a change in his behavior. His parents state that they first noticed the change in his behavior this morning and it has been getting worse. They noticed the patient was initially weak in his upper body and arms, but now he won’t move his legs with as much strength or vigor as he used to. Physical exam is notable for bilateral ptosis with a sluggish pupillary response, a very weak sucking and gag reflex, and shallow respirations. The patient is currently drooling and his diaper is dry. The parents state he has not had a bowel movement in over 1 day. Which of the following is the pathophysiology of this patient’s condition? A: Antibodies against postsynaptic nicotinic cholinergic ion channels, B: Autoantibodies against the presynaptic voltage-gated calcium channels, C: Autoimmune demyelination of peripheral nerves, D: Blockade of presynaptic acetylcholine release at the neuromuscular junction, E: Lower motor neuron destruction in the anterior horn
+
+### Response:
+<|begin_search_query|>causes of flaccid paralysis in infants<|end_search_query|>
+<|begin_search_query|>pathophysiology of antibodies against postsynaptic nicotinic cholinergic ion channels<|end_search_query|>
+<|begin_search_query|>pathophysiology of autoantibodies against presynaptic voltage-gated calcium channels<|end_search_query|>
+<|begin_search_query|>pathophysiology of autoimmune demyelination of peripheral nerves<|end_search_query|>
+<|begin_search_query|>pathophysiology of blockade of presynaptic acetylcholine release at the neuromuscular junction<|end_search_query|>
+<|begin_search_query|>pathophysiology of lower motor neuron destruction in anterior horn<|end_search_query|>
+<|begin_search_query|>causes of bilateral ptosis in infants<|end_search_query|>
+<|begin_search_query|>causes of weak gag reflex and poor sucking in infants<|end_search_query|>
+<|begin_search_query|>causes of constipation and urinary retention in infants<|end_search_query|>
+<|begin_search_query|>descending paralysis clinical features in infants<|end_search_query|>
+
+### Instruction:
+A 23-year-old man comes to the physician for evaluation of decreased hearing, dizziness, and ringing in his right ear for the past 6 months. Physical examination shows multiple soft, yellow plaques and papules on his arms, chest, and back. There is sensorineural hearing loss and weakness of facial muscles bilaterally. His gait is unsteady. An MRI of the brain shows a 3-cm mass near the right internal auditory meatus and a 2-cm mass at the left cerebellopontine angle. The abnormal cells in these masses are most likely derived from which of the following embryological structures? A: Neural tube, B: Surface ectoderm, C: Neural crest, D: Notochord, E: Mesoderm
+
+### Response:
+<|begin_search_query|>causes of bilateral sensorineural hearing loss in young adults<|end_search_query|>
+<|begin_search_query|>causes of facial muscle weakness bilaterally<|end_search_query|>
+<|begin_search_query|>causes of unsteady gait with hearing loss<|end_search_query|>
+<|begin_search_query|>common findings in masses at the internal auditory meatus<|end_search_query|>
+<|begin_search_query|>common findings in masses at the cerebellopontine angle<|end_search_query|>
+<|begin_search_query|>skin findings of yellow plaques and papules in systemic diseases<|end_search_query|>
+<|begin_search_query|>embryologic origin of neural tube<|end_search_query|>
+<|begin_search_query|>embryologic origin of surface ectoderm<|end_search_query|>
+<|begin_search_query|>embryologic origin of neural crest<|end_search_query|>
+<|begin_search_query|>embryologic origin of notochord<|end_search_query|>
+<|begin_search_query|>embryologic origin of mesoderm<|end_search_query|>
+
+### Instruction:
+A 62-year-old woman comes to the physician because of coughing and fatigue during the past 2 years. In the morning, the cough is productive of white phlegm. She becomes short of breath walking up a flight of stairs. She has hypertension and hyperlipidemia. She has recently retired from working as a nurse at a homeless shelter. She has smoked 1 pack of cigarettes daily for 40 years. Current medications include ramipril and fenofibrate. Her temperature is 36.5°C (97.7°F), respirations are 24/min, pulse is 85/min, and blood pressure is 140/90 mm Hg. Scattered wheezing and rhonchi are heard throughout both lung fields. There are no murmurs, rubs, or gallops but heart sounds are distant. Which of the following is the most likely underlying cause of this patient's symptoms? A: Chronic decrease in pulmonary compliance, B: Local accumulation of kinins, C: Mycobacterial invasion of pulmonary parenchyma, D: Progressive obstruction of expiratory airflow, E: Incremental loss of functional residual capacity
+
+### Response:
+<|begin_search_query|>causes of chronic productive cough in adults<|end_search_query|>
+<|begin_search_query|>causes of exertional dyspnea in adults<|end_search_query|>
+<|begin_search_query|>effects of long-term smoking on lung function<|end_search_query|>
+<|begin_search_query|>clinical findings associated with wheezing and rhonchi<|end_search_query|>
+<|begin_search_query|>chronic decrease in pulmonary compliance and clinical features<|end_search_query|>
+<|begin_search_query|>local accumulation of kinins and respiratory symptoms<|end_search_query|>
+<|begin_search_query|>mycobacterial infections affecting pulmonary parenchyma<|end_search_query|>
+<|begin_search_query|>progressive obstruction of expiratory airflow and clinical presentation<|end_search_query|>
+<|begin_search_query|>loss of functional residual capacity and its effects<|end_search_query|>
+
+
+
+

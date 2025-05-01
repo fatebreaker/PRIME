@@ -1,0 +1,75 @@
+### Instruction:
+1. What are the key clinical findings?
+2. What is the temporal profile of the condition?
+3. What is the pattern of neurological involvement?
+4. Are any autonomic features present?
+5. Are cranial nerves involved?
+6. What is the patient’s age and developmental status?
+7. What are the possible categories of conditions?
+8. What diseases match the clinical pattern?
+9. What is the pathophysiologic mechanism behind each answer choice?
+10. Which mechanism best explains all findings?
+
+### Response:
+1. What are the key clinical findings?: Observation question
+2. What is the temporal profile of the condition?: Observation question
+3. What is the pattern of neurological involvement?: Observation question
+4. Are any autonomic features present?: Observation question
+5. Are cranial nerves involved?: Observation question
+6. What is the patient’s age and developmental status?: Observation question
+7. What are the possible categories of conditions?: Knowledge-based question
+<|begin_search_query|>causes of flaccid paralysis in infants<|end_search_query|>
+<|begin_search_query|>etiologies of acute weakness in children<|end_search_query|>
+<|begin_search_query|>categories of neuromuscular disorders in pediatrics<|end_search_query|>
+8. What diseases match the clinical pattern?: Knowledge-based question
+<|begin_search_query|>differential diagnosis for descending paralysis in infants<|end_search_query|>
+<|begin_search_query|>infant with hypotonia and autonomic symptoms<|end_search_query|>
+<|begin_search_query|>diseases causing cranial nerve palsies and constipation in infants<|end_search_query|>
+9. What is the pathophysiologic mechanism behind each answer choice?: Knowledge-based question
+<|begin_search_query|>mechanisms of neuromuscular junction disorders<|end_search_query|>
+<|begin_search_query|>pathophysiology of infant neuromuscular paralysis<|end_search_query|>
+10. Which mechanism best explains all findings?: Observation question
+
+### Instruction:
+1. What are the key clinical and imaging findings?
+2. What is the temporal profile of the patient’s symptoms?
+3. Which cranial nerves or neurologic systems appear to be affected?
+4. Are there any associated dermatologic or systemic findings?
+5. What conditions can cause bilateral cerebellopontine angle masses?
+6. Which embryologic structures give rise to the relevant cell types in these conditions?
+7. Which embryological origin best explains the findings in this case?
+
+### Response:
+1. What are the key clinical and imaging findings?: Observation question
+2. What is the temporal profile of the patient’s symptoms?: Observation question
+3. Which cranial nerves or neurologic systems appear to be affected?: Observation question
+4. Are there any associated dermatologic or systemic findings?: Observation question
+5. What conditions can cause bilateral cerebellopontine angle masses?: Knowledge-based question
+<|begin_search_query|>what are the causes of bilateral cerebellopontine angle masses<|end_search_query|>
+<|begin_search_query|>differential diagnosis for tumors in cerebellopontine angle<|end_search_query|>
+6. Which embryologic structures give rise to the relevant cell types in these conditions?: Knowledge-based question
+<|begin_search_query|>embryological origins of common CPA tumor cell types<|end_search_query|>
+<|begin_search_query|>which embryonic structures form peripheral nerve sheath cells<|end_search_query|>
+7. Which embryological origin best explains the findings in this case?: Observation question
+
+### Instruction:
+1. What are the key symptoms and physical exam findings?
+2. What is the duration and progression of the symptoms?
+3. Are there any known risk factors or exposures relevant to the case?
+4. What is the character of the cough and associated respiratory features?
+5. What conditions can present with chronic productive cough, wheezing, and exertional dyspnea?
+6. What is the underlying physiological or pathophysiological mechanism responsible for the symptoms?
+7. Which mechanism best accounts for this patient’s presentation?
+
+### Response:
+1. What are the key symptoms and physical exam findings?: Observation question
+2. What is the duration and progression of the symptoms?: Observation question
+3. Are there any known risk factors or exposures relevant to the case?: Observation question
+4. What is the character of the cough and associated respiratory features?: Observation question
+5. What conditions can present with chronic productive cough, wheezing, and exertional dyspnea?: Knowledge-based question
+<|begin_search_query|>differential diagnosis of chronic productive cough with wheezing in adults<|end_search_query|>
+<|begin_search_query|>respiratory conditions associated with smoking and exertional dyspnea<|end_search_query|>
+6. What is the underlying physiological or pathophysiological mechanism responsible for the symptoms?: Knowledge-based question
+<|begin_search_query|>mechanisms of airway obstruction in chronic respiratory disease<|end_search_query|>
+<|begin_search_query|>pathophysiology of chronic bronchitis and other causes of obstructive lung disease<|end_search_query|>
+7. Which mechanism best accounts for this patient’s presentation?: Observation question

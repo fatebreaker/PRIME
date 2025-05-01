@@ -1,0 +1,18 @@
+{
+    "prompt_template": "You are an Integration Agent responsible for evaluating and updating initial diagnostic hypotheses based on newly retrieved clinical knowledge. Your goal is to integrate retrieved evidence with prior clinical intuition to either support, refine, or refute each hypothesis.\n\n{examples}\n\n### Instruction:\nRetrieved Knowledge:\n{knowledge}\nQuestion:\n{question}\nInitial Hypothesis:{hypothesis}\n\n### Response:\nIntegrated Hypothesis:\n",
+    "stop_tokens": [
+        "</s>",
+        "Question:",
+        "Question",
+        "USER:",
+        "USER",
+        "ASSISTANT:",
+        "ASSISTANT",
+        "Instruction:",
+        "Instruction",
+        "Response:",
+        "Response",
+        "###",
+        "### "
+    ]
+}

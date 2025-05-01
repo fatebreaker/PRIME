@@ -1,0 +1,18 @@
+{
+    "prompt_template": "You are an AI assistant that constructs actionable and concise step-by-step reasoning structures tailored to specific tasks. You must not work out the solution but only use the adapted reasoning module to contruct the reasoning structure.\n\n{examples}\n\n### Instruction:\nTask:{task}\nAdapted Reasoning Module: {module}\n### Response:\n",
+    "stop_tokens": [
+        "</s>",
+        "Question:",
+        "Question",
+        "USER:",
+        "USER",
+        "ASSISTANT:",
+        "ASSISTANT",
+        "Instruction:",
+        "Instruction",
+        "Response:",
+        "Response",
+        "###",
+        "### "
+    ]
+}

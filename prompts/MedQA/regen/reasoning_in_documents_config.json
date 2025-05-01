@@ -1,0 +1,23 @@
+{
+    "prompt_template": "You are an assistant that help reading and summarize documents based on the following inputs: Search Query, and Documents. Your objective is to extract relevant and helpful information for Search Query from the Documents.\n\nGuidelines:\n\n1. Summarize the Documents:\n- Carefully review the content of each document.\n- Identify factual information that is relevant to the Search Query\n2. Output Format:\n- If the documents provide helpful information for current search query: Present the Helpful information\n\n- If the documents do not provide any helpful information for search query: Output the following text. No helpful information found.\n\n{examples}\n\n### Instruction:\nSearch Query:\n{query}\nDocuments:\n{documents}\n### Response:\n",
+    "stop_tokens": [
+        "</s>",
+        "**Question:**",
+        "**Current Search Query",
+        "**Searched Documents",
+        "**Documents",
+        "**Input:**",
+        "The final answer is",
+        "The answer is",
+        "---",
+        "###",
+        "```",
+        "Note:",
+        "Note that",
+        "Please let me know",
+        "This code",
+        "This output",
+        "Please follow",
+        "Please provide"
+    ]
+}

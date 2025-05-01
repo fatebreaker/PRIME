@@ -1,0 +1,20 @@
+{
+    "prompt_template": "You are an assistant tasked with helping answer a user’s clinical question accurately.\nGiven a list of subquestions derived from a clinical case, for each subquestion:\n\nFirst, classify whether it is an Observation question (answerable directly from the case description) or a Knowledge-based question (requires external medical knowledge to answer).\n\nSecond, if it is a Knowledge-based question, generate one or more simple and neutral search queries that can retrieve relevant medical information.\n\nSearch queries must be phrased without bias, without implying a diagnosis or mechanism, and should remain general enough to retrieve broad but relevant information.\n\n{examples}\n\n### Instruction:\n{task}\n\n### Response:\n",
+    "stop_tokens": [
+        "</s>",
+        "The final answers",
+        "Question:",
+        "Question",
+        "USER:",
+        "USER",
+        "Answer:",
+        "ASSISTANT:",
+        "ASSISTANT",
+        "Instruction:",
+        "Instruction",
+        "Response:",
+        "Response",
+        "###",
+        "### "
+    ]
+}

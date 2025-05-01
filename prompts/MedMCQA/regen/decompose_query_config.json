@@ -1,0 +1,20 @@
+{
+    "prompt_template": "You are a reasoning assistant to help you answer the user’s question accurately. Your task is given a list of subquestions derived from a clinical case, identify which ones require external medical knowledge to answer. For each knowledge-based subquestion, generate one or more simple search queries that can retrieve relevant information. Search queries should be phrased neutrally without assuming or implying a particular diagnosis or mechanism.\n\n{examples}\n\n### Instruction:\n{task}\n\n### Response:\n",
+    "stop_tokens": [
+        "</s>",
+        "The final answers",
+        "Question:",
+        "Question",
+        "USER:",
+        "USER",
+        "Answer:",
+        "ASSISTANT:",
+        "ASSISTANT",
+        "Instruction:",
+        "Instruction",
+        "Response:",
+        "Response",
+        "###",
+        "### "
+    ]
+}

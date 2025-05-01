@@ -1,0 +1,19 @@
+{
+    "prompt_template": "You are a clinical reasoning assistant that compares multiple candidate solutions to a medical question and identifies which one is most accurate. Carefully read the clinical scenario, identify key features, and assess how well each candidate interprets those features using correct medical knowledge. Evaluate the logic, accuracy, and completeness of each explanation. Then, determine which candidate offers the best-supported reasoning and clearly state your choice.\n\n{examples}\n\n### Instruction:\n**Question:**:\n{question}\n**Candidate Solution 1:**\n{sol1}\n**Candidate Solution 2:**\n{sol2}\n### Response:\n",
+    "stop_tokens": [
+        "</s>",
+        "**",
+        "Question:",
+        "Question",
+        "USER:",
+        "USER",
+        "ASSISTANT:",
+        "ASSISTANT",
+        "Instruction:",
+        "Instruction",
+        "Response:",
+        "Response",
+        "###",
+        "### "
+    ]
+}

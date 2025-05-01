@@ -1,0 +1,46 @@
+### Instruction:
+In Sweden, the red fox (Vulpes vulpes) severely limits populations of its prey, including hares. However, red fox populations are sometimes attacked by a fatal parasite, the mange mite. As mite population sizes increase at a given site, how are hare and fox populations most likely to respond at the same site? (Assume that hares have no major predators at this site other than foxes.) A: Both fox and hare populations will decrease, B: Both fox and hare populations will increase, C:Fox populations will decrease and hare populations will increase, D: Fox populations will increase and hare populations will decrease.
+
+### Response:
+1. What is the ecological relationship between foxes and hares?
+Red foxes are predators of hares. This means that foxes regulate hare populations through predation. If fox populations are high, they can suppress hare numbers.
+2. What effect does the mange mite have on fox populations?
+The mange mite is a parasite that fatally affects red foxes. When mange mite populations increase, fox populations tend to decrease due to disease-induced mortality.
+3. How will a decrease in fox populations affect hare populations?
+If the number of foxes declines due to mange infestation, there will be less predation pressure on hares. This should lead to an increase in the hare population, assuming food and other factors are not limiting.
+4. What is the expected direction of change for each population?
+With increasing mange mite infestation:
+Fox populations will decrease due to higher mortality.
+Hare populations will increase due to reduced predation.
+5. Which option best matches this predicted outcome?
+The answer is: C: Fox populations will decrease and hare populations will increase.
+
+### Instruction:
+A patient comes into the hospital after being bit by a dog who he stated was “acting crazy”. The wound is open and bleeding. Animal control captured the dog and said that it was foaming at the mouth and extremely aggressive. Suspecting a rabies infection, the patient is given a serum that contains rabies antibodies that were grown inside a horse. This is an example of what kind of immunity? A: Passive, B: Active, C:Natural, D: Artificial
+
+### Response:
+1. What is the clinical scenario and intervention?
+A patient is bitten by a potentially rabid dog. Due to the high suspicion of rabies, the patient is given a serum containing pre-formed rabies antibodies grown in a horse.
+2. What type of immune protection is being provided?
+The patient is receiving immediate protection by being given antibodies that were made elsewhere (in a horse), not by the patient’s own immune system.
+3. What category does this form of immunity fall under?
+This is passive immunity, because the antibodies are transferred from an external source and provide temporary protection without requiring the patient’s immune system to mount its own response.
+4. How does passive immunity differ from active immunity?
+Active immunity involves the patient’s immune system actively producing antibodies (as occurs after infection or vaccination), whereas passive immunity provides ready-made antibodies for immediate but short-term protection.
+5. This is an example of what kind of immunity?
+The answer is A: Passive.
+
+### Instruction:
+A 65-year-old female is admitted to the hospital after experiencing aphasia and right-sided hemiparesis. She subsequently develops urinary incontinence. There is no evidence of urinary tract infection and no prior history of urinary pathology. The most likely diagnosis is A: autonomic neurogenic bladderv, B: motor paralytic bladder, C:reflex neurogenic bladder, D: uninhibited neurogenic bladder
+
+### Response:
+1. What are the key clinical findings?
+The patient has developed aphasia, right-sided hemiparesis, and new-onset urinary incontinence following a neurologic event. There is no prior urinary pathology or infection.
+2. What is the temporal profile of the symptoms?
+The neurologic deficits (aphasia and hemiparesis) and urinary incontinence appear acutely and are likely due to a recent cerebrovascular event (e.g., stroke).
+3. What neurological regions are implicated based on the symptoms?
+Aphasia suggests involvement of the dominant cerebral hemisphere, likely the left frontal lobe. Right-sided hemiparesis also supports left hemisphere involvement. Urinary incontinence in this context often reflects involvement of the medial frontal micturition center, which helps control bladder inhibition.
+4. What type of bladder dysfunction results from medial frontal lobe damage?
+Lesions affecting the medial frontal micturition center lead to loss of voluntary control over urination, while reflex bladder emptying remains intact. This results in uninhibited bladder—patients urinate reflexively without awareness or control.
+5. What is the correct diagnosis?
+Due to loss of cortical inhibitory control following a stroke involving the medial frontal lobe, the answer is D: Uninhibited neurogenic bladder.

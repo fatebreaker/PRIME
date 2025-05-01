@@ -1,0 +1,39 @@
+You are an assistant that help reading and summarize documents based on the following inputs: **Current Search Query**, and **Searched Documents*. Your objective is to extract relevant and helpful information for **Current Search Query** from the **Searched Documents**.
+
+**Guidelines:**
+
+1. **Summarize the Documents:**
+- Carefully review the content of each document.
+- Identify factual information that is relevant to the **Current Search Query**
+
+2. **Output Format:**
+- **If the documents provide helpful information for current search query:** Present the information beginning with `**Final Information**` as shown below.
+**Final Information:**
+
+[Helpful information]
+
+- **If the documents do not provide any helpful information for current search query:** Output the following text.
+
+**Final Information:**
+
+No helpful information found.
+
+**Input:**
+- **Current Search Query:**
+bilateral cerebellopontine angle masses differential diagnosis
+- **Documents:**
+Cerebellopontine Angle Cancer -- Differential Diagnosis: The differential diagnosis of CPA mass includes primary CPA tumors like vestibular schwannoma, meningioma, epidermoid, non-vestibular schwannoma, congenital, vascular, and metastatic lesions. [1] [14] [15] Tumors from adjacent regions may also extend to the CPA and include ependymoma, choroid plexus papilloma, brainstem glioma, or hemangioblastoma. [15] [4] Other lesions, including vascular malformations, inflammatory/granulomatous tissue, and neuritis, can also present similarly. [15] [3]\nNeurology_Adams: Neurinoma or schwannoma of the trigeminal (gasserian) ganglion or neighboring cranial nerves and meningioma of the cerebellopontine angle may, in some instances, be indistinguishable from a vestibular schwannoma. Fifth cranial nerve tumors should always be considered if deafness, tinnitus, and lack of response to caloric stimulation (“dead labyrinth”) are not the initial symptoms of a cerebellopontine angle syndrome. A true cholesteatoma (epidermoid cyst) is a relatively rare tumor that is most often located in the cerebellopontine angle where it may simulate an acoustic neuroma but usually causes more severe facial weakness. Spillage of the contents of the cyst may produce intense chemical meningitis. Other disorders that enter into the differential diagnosis are glomus jugulare tumor (see later), metastatic cancer, neoplastic meningitis (especially lymphomatous), syphilitic meningitis, arachnoid cyst, and epidural plasmacytoma of the petrous bone. All these disorders may produce a\nWhite Matter Lesions -- Differential Diagnosis: Bilateral hemispheres: toxic encephalopathy, HIV encephalopathy, autoimmune encephalopathies, and vitamin B12 deficiency Periventricular lesions: small vessel disease, HIV encephalopathy, vitamin B12 deficiency, metachromatic leukodystrophy, X-linked adrenoleukodystrophy, and vanishing white matter disease Subcortical including arcuate fibers: Alexander disease, Kearns-Sayre syndrome, and cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy (CADASIL) Frontal predominance: Alexander disease and metachromatic leukodystrophy Parietal/temporal/occipital lobes: posterior reversible encephalopathy, heroin abuse, and Krabbe disease Corpus callosum: Marchifava-Bignami disease, metachromatic leukodystrophy, and Krabbe disease Cerebellum: toxic encephalopathy and mitochondriopathies Central pons: central pontine myelinolysis The differential diagnosis for asymmetric white matter lesions:
+
+**Final Information:**
+The differential diagnosis for bilateral cerebellopontine angle (CPA) masses includes vestibular schwannoma, meningioma, epidermoid cyst (cholesteatoma), non-vestibular schwannomas, congenital lesions, vascular malformations, metastatic tumors, and tumors from adjacent regions such as ependymoma, choroid plexus papilloma, and brainstem glioma. Among these, bilateral vestibular schwannomas are highly characteristic of Neurofibromatosis type 2 (NF2) and are the most likely diagnosis in a young adult with bilateral CPA tumors and associated sensorineural hearing loss, facial weakness, and skin findings.
+
+**Input:**
+- **Current Search Query:**
+chronic cough and sputum in smokers
+- **Documents:**
+Pathology_Robbins: Mostpatientswithemphysemaalsohavesignsandsymptomsofconcurrentchronicbronchitis,sincecigarettesmokingisariskfactorforboth. http://ebooksmedicine.net Chronic bronchitis is diagnosed on clinical grounds: it is defined by the presence of a persistent productive cough for at least 3 consecutive months in at least 2 consecutive years. It is common among cigarette smokers and urban dwellers in smog-ridden cities; some studies indicate that 20% to 25% of men in the 40to 65-year-old age group have the disease. In early stages of the disease, the cough raises mucoid sputum, but airflow is not obstructed. Some patients with chronic bronchitis have evidence of hyperresponsive airways, with intermittent bronchospasm and wheezing (asthmatic bronchitis), while other bronchitic patients, especially heavy smokers, develop chronic outflow obstruction, usually with associated emphysema (COPD). The distinctive feature of chronic bronchitis is hypersecretion of mucus, beginning in the large airways.\nChronic Obstructive Pulmonary Disease -- Introduction: Chronic obstructive pulmonary disease (COPD) is a common and treatable disease characterized by progressive airflow limitation and tissue destruction. It is associated with structural lung changes due to chronic inflammation from prolonged exposure to noxious particles or gases most commonly cigarette smoke. Chronic inflammation causes airway narrowing and decreased lung recoil. The disease often presents with symptoms of cough, dyspnea, and sputum production. Symptoms can range from being asymptomatic to respiratory failure. [1]\nPhysiology, Lung -- Issues of Concern -- Obstructive Disease: Chronic bronchitis demonstrates long-term airway inflammation causing excessive cough\xa0and sputum production. Emphysema characteristically shows enlarged airspaces (loss of alveolar elasticity), leading to chronic dyspnea. The overly-distended air spaces prevent the lungs from adequately emptying. Smoking is the primary cause of the disease and is directly related to the\xa0severity of the disease course. Cigarettes\xa0induce inflammation in the lungs. Airways show small airway disease and parenchymal destruction.
+
+**Final Information:**
+Chronic bronchitis is defined by a persistent productive cough for at least 3 consecutive months in 2 consecutive years and is common among cigarette smokers. It is characterized by hypersecretion of mucus beginning in the large airways. Smoking is the primary cause and contributes to airway inflammation and obstruction. Chronic obstructive pulmonary disease (COPD), which includes chronic bronchitis and emphysema, is characterized by progressive airflow limitation. It presents with cough, dyspnea, and sputum production, and is caused by chronic inflammation due to exposure to noxious particles like cigarette smoke. In chronic bronchitis, patients may have wheezing and rhonchi due to airway narrowing.
+
+

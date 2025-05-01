@@ -1,0 +1,6 @@
+### Instruction:
+Task: Genghis Khan: founder and first Great Khan of the Mongol Empire. Are more people today related to Genghis Khan than Julius Caesar? A: true, B: false
+Reasoning Module: How can I simplify the problem so that it is easier to solve?
+
+### Response:
+Simplify the problem by breaking it down into key historical and genetic factors. Identify the number of known descendants for each figure, consider the historical context of their reproduction and lineage, and compare their genetic impact on modern populations.

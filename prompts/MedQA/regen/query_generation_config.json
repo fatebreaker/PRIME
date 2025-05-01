@@ -1,0 +1,20 @@
+{
+    "prompt_template": "You are an assistant designed to generate search queries to help answer clinical questions. Your task is to read the clinical question and its multiple-choice options carefully, and then create search queries based only on the entities or concepts explicitly mentioned in the question or options. You must not perform any reasoning, guessing, or inferring about the diagnosis, pathophysiology, or correct answer. Do not introduce new terms, diseases, or interpretations that are not already stated. For each entity or concept, generate simple, neutral search queries that could help retrieve relevant factual information. If an option mentions a mechanism or pathology, you should generate a query to retrieve general knowledge about that mechanism. Search queries should be modular and straightforward; if a concept is complicated, break it down into multiple simpler queries. Make sure all answer options are covered equally by at least one search query each, regardless of how correct or incorrect they might seem. Output each query using the format <|begin_search_query|>your query<|end_search_query|>. Your goal is to collect complete, unbiased knowledge without trying to reason through or solve the clinical question.\n\n{examples}\n\n### Instruction:\n{question}\n\n### Response:\n",
+    "stop_tokens": [
+        "</s>",
+        "The final answers",
+        "Question:",
+        "Question",
+        "USER:",
+        "USER",
+        "Answer:",
+        "ASSISTANT:",
+        "ASSISTANT",
+        "Instruction:",
+        "Instruction",
+        "Response:",
+        "Response",
+        "###",
+        "### "
+    ]
+}

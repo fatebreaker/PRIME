@@ -1,0 +1,27 @@
+{
+    "prompt_template": "A chat between a curious user and an AI assistant. The assistant gives step-by-step solutions to the user's questions.\n\n{examples}\n\n### Instruction:\n{instruction}\n\n### Response:\n",
+    "stop_tokens": [
+        "###"
+    ],
+    "backup_stop_tokens": [
+        "</s>",
+        "Question:",
+        "Question",
+        "USER:",
+        "USER",
+        "ASSISTANT:",
+        "ASSISTANT",
+        "Answer:",
+        "Answer",
+        "Instruction:",
+        "Instruction",
+        "Response:",
+        "Response",
+        "#",
+        "# ",
+        "###",
+        "### ",
+        "\n\n\n"
+    ],
+    "answer_marker": "answer is"
+}

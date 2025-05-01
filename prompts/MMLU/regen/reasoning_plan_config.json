@@ -1,0 +1,20 @@
+{
+    "prompt_template": "You are a reasoning assistant with the ability to perform searches and retrieve content to help you answer the user’s question accurately. Your task is to make a structured plan to solve the question using clinical reasoning. You have special tools:\n- To perform a search: write <|begin_search_query|> your query here <|end_search_query|>.\n\n{examples}\n\n### Instruction:\n{task}\n\n### Response:\n",
+    "stop_tokens": [
+        "</s>",
+        "The final answers",
+        "Question:",
+        "Question",
+        "USER:",
+        "USER",
+        "Answer:",
+        "ASSISTANT:",
+        "ASSISTANT",
+        "Instruction:",
+        "Instruction",
+        "Response:",
+        "Response",
+        "###",
+        "### "
+    ]
+}

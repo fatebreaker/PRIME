@@ -1,0 +1,12 @@
+**/__pycache__
+**/.DS_Store
+tmp
+**/nohup.out
+**/out
+**/keys
+save
+data
+MultimodalLLM
+checkpoints
+run_outputs
+log

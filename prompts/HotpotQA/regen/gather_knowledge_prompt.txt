@@ -1,0 +1,56 @@
+### Instruction:
+A 1-year-old boy presents to the emergency department with weakness and a change in his behavior. His parents state that they first noticed the change in his behavior this morning and it has been getting worse. They noticed the patient was initially weak in his upper body and arms, but now he won’t move his legs with as much strength or vigor as he used to. Physical exam is notable for bilateral ptosis with a sluggish pupillary response, a very weak sucking and gag reflex, and shallow respirations. The patient is currently drooling and his diaper is dry. The parents state he has not had a bowel movement in over 1 day. Which of the following is the pathophysiology of this patient’s condition? A: Antibodies against postsynaptic nicotinic cholinergic ion channels, B: Autoantibodies against the presynaptic voltage-gated calcium channels, C: Autoimmune demyelination of peripheral nerves, D: Blockade of presynaptic acetylcholine release at the neuromuscular junction, E: Lower motor neuron destruction in the anterior horn
+
+### Response:
+1. Identify the key clinical features:
+Note the descending weakness, ptosis, poor gag reflex, shallow breathing, drooling, and constipation—suggesting neuromuscular and autonomic dysfunction.
+2. Gather Knowledge:
+causes of flaccid paralysis in infants
+infant botulism symptoms and signs
+spinal muscular atrophy symptoms in infants
+botulinum toxin mechanism of action
+
+### Instruction:
+A 23-year-old man comes to the physician for evaluation of decreased hearing, dizziness, and ringing in his right ear for the past 6 months. Physical examination shows multiple soft, yellow plaques and papules on his arms, chest, and back. There is sensorineural hearing loss and weakness of facial muscles bilaterally. His gait is unsteady. An MRI of the brain shows a 3-cm mass near the right internal auditory meatus and a 2-cm mass at the left cerebellopontine angle. The abnormal cells in these masses are most likely derived from which of the following embryological structures? A: Neural tube, B: Surface ectoderm, C: Neural crest, D: Notochord, E: Mesoderm
+
+### Response:
+1. Identify key clinical features:
+Patient presents with bilateral sensorineural hearing loss, facial weakness, dizziness, and unsteady gait. MRI shows bilateral cerebellopontine angle masses. Skin exam reveals multiple soft yellow papules and plaques.
+2. Gather Knowledge:
+bilateral cerebellopontine angle masses differential diagnosis
+neurofibromatosis type 2 clinical features and imaging findings
+vestibular schwannoma cell origin
+
+### Instruction:
+A 62-year-old woman comes to the physician because of coughing and fatigue during the past 2 years. In the morning, the cough is productive of white phlegm. She becomes short of breath walking up a flight of stairs. She has hypertension and hyperlipidemia. She has recently retired from working as a nurse at a homeless shelter. She has smoked 1 pack of cigarettes daily for 40 years. Current medications include ramipril and fenofibrate. Her temperature is 36.5°C (97.7°F), respirations are 24/min, pulse is 85/min, and blood pressure is 140/90 mm Hg. Scattered wheezing and rhonchi are heard throughout both lung fields. There are no murmurs, rubs, or gallops but heart sounds are distant. Which of the following is the most likely underlying cause of this patient's symptoms? A: Chronic decrease in pulmonary compliance, B: Local accumulation of kinins, C: Mycobacterial invasion of pulmonary parenchyma, D: Progressive obstruction of expiratory airflow, E: Incremental loss of functional residual capacity
+
+### Response:
+1. Identify key clinical features:
+The patient has a chronic productive cough with white phlegm for 2 years, exertional dyspnea, wheezing, rhonchi, and a 40 pack-year smoking history—suggestive of a chronic pulmonary disease.
+2. Gather Knowledge:
+chronic cough and sputum in smokers
+COPD chronic bronchitis airway obstruction mechanism
+
+### Instruction:
+You are the attending physician on duty on an inpatient hospitalist team. A 48-year-old patient with a history of COPD and atrial fibrillation on warfarin is admitted to your service for management of a COPD exacerbation. Four days into her admission, routine daily lab testing shows that patient has an INR of 5. She is complaining of blood in her stool. The bleeding self-resolves and the patient does not require a transfusion. Review of the medical chart shows that the patient's nurse accidentally gave the patient three times the dose of warfarin that was ordered. What is the correct next step? A: Tell the patient that a mistake was made and explain why it happened, B: Tell the patient that the blood in her stool was likely a side effect of the warfarin, C:Do not tell the patient about the mistake as no harm was done, D: Do not tell the patient about the mistake because she is likely to sue for malpractice, E: Do not tell the patient about the mistake because you did not make the mistake
+
+### Response:
+1. Identify key clinical features:
+The patient is hospitalized with COPD and atrial fibrillation, managed with warfarin. On day 4, she experiences elevated INR (INR = 5) and reports blood in her stool. Chart review reveals a medication error—three times the intended warfarin dose was administered by a nurse. Although the bleeding self-resolved and no transfusion was needed, the error had a direct clinical consequence.
+2. Gather Knowledge:
+ethical guidelines for disclosing medical errors to patients
+patient safety and communication after medication error
+responsibility of physicians for team errors in hospital settings
+
+### Instruction:
+You are a resident in the surgical ICU. One of the patients you are covering is a 35-year-old pregnant G1P0 in her first trimester admitted for complicated appendicitis and awaiting appendectomy. Your attending surgeon would like you to start the patient on moxifloxacin IV preoperatively. You remember from your obstetrics clerkship, however, that moxifloxacin is Pregnancy Category C, and animal studies have shown that immature animals exposed to flouroquinolones like moxifloxicin may experience cartilage damage. You know that there are potentially safer antibiotics, such as piperacillin/tazobactam, which is in Pregnancy Category B. What should you do? A: Administer piperacillin/tazobactam instead of moxifloxacin without discussing with the attending since your obligation is to "first, do no harm" and both are acceptable antibiotics for complicated appendicitis., B: Administer moxifloxacin since it is only Pregnancy Category C and, although studies may have revealed adverse effects in animals, there is no definite evidence that it causes risk in humans., C:Administer moxifloxacin since the attending is the executive decision maker and had to know the patient was pregnant when deciding on an antibiotic., D: Discuss the adverse effects of each antibiotic with the patient, and then let the patient decide which antibiotic she would prefer., E: Wait to administer any antibiotics until you discuss your safety concerns with your attending.
+
+### Response:
+1. Identify key clinical features:
+The patient is a 35-year-old woman in her first trimester of pregnancy with complicated appendicitis. The attending has ordered moxifloxacin, a fluoroquinolone (Pregnancy Category C), but the resident recalls concerns regarding fetal cartilage damage and knows an alternative (piperacillin/tazobactam, Category B) is available.
+2. Gather Knowledge:
+antibiotic safety in pregnancy
+FDA pregnancy categories and their implications
+fluoroquinolone-associated fetal risks
+ethical principles of patient advocacy and shared decision-making
+communication between residents and attendings about safety concerns

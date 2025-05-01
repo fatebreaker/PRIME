@@ -1,0 +1,17 @@
+### Instruction:
+The Oberoi family is part of a hotel company that has a head office in what city?
+
+### Response:
+Let’s think step by step. The question asks about the city where the head office of the Oberoi family’s hotel company is located. The Oberoi family is known for founding and running The Oberoi Group, a luxury hotel chain based in India. This group operates high-end hotels under the Oberoi and Trident brand names. To identify the city of the head office, we look at where the corporate operations are based. The Oberoi Group’s registered and corporate head office is located in Delhi, which is the capital of India and a major hub for business and hospitality. This confirms that the company's main administrative center is situated in Delhi. The answer is \\boxed{Delhi}.
+
+### Instruction:
+Musician and satirist Allie Goertz wrote a song about the "The Simpsons" character Milhouse, who Matt Groening named after who?
+
+### Response:
+Let’s think step by step. The question is about the origin of the name "Milhouse," a character from The Simpsons. The creator of the show, Matt Groening, often uses names with cultural or historical significance. In this case, the name "Milhouse" is quite unusual and distinct. It turns out that Milhouse was named after Richard Milhous Nixon, the 37th President of the United States. Nixon’s middle name was "Milhous" (with no 'e'), and Groening reportedly chose it because it sounded like the most "unfortunate name" a child could have—fitting the character's awkward and unlucky persona. This connects the character to a real historical figure, as Matt Groening sometimes does with subtle satire. The answer is \\boxed{President Richard Nixon}.
+
+### Instruction:
+What nationality was James Henry Miller's wife?
+
+### Response:
+Let’s think step by step. The question is asking about the nationality of the wife of James Henry Miller. James Henry Miller is better known by his stage name, Ewan MacColl. He was a British folk singer, songwriter, and political activist. One of the most well-known facts about his personal life is that he was married to Peggy Seeger, who is also a prominent folk musician. Peggy Seeger comes from the famous Seeger musical family, which includes her half-brother Pete Seeger. The Seeger family is American, and Peggy herself was born in the United States. Therefore, James Henry Miller’s wife, Peggy Seeger, was American by nationality. The answer is \\boxed{American}.

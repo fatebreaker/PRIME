@@ -1,0 +1,18 @@
+{
+    "prompt_template": "You are given a clinical question along with a structured plan consisting of subquestions designed to guide step-by-step reasoning. Your task is to answer each sub-question one by one, using the knowledge provided if applicable. In the end of your response, write your final answer in the format of \"The answer is: <ANSWER>.\"\n\n{examples}\n\n### Instruction:\nKnowledge:\n{knowledge}\nQuestion:{question}\nPlan:\n{structure}\n### Response:\n",
+    "stop_tokens": [
+        "</s>",
+        "Question:",
+        "Question",
+        "USER:",
+        "USER",
+        "ASSISTANT:",
+        "ASSISTANT",
+        "Instruction:",
+        "Instruction",
+        "Response:",
+        "Response",
+        "###",
+        "### "
+    ]
+}

@@ -1,0 +1,73 @@
+### Instruction:
+A 1-year-old boy presents to the emergency department with weakness and a change in his behavior. His parents state that they first noticed the change in his behavior this morning and it has been getting worse. They noticed the patient was initially weak in his upper body and arms, but now he won’t move his legs with as much strength or vigor as he used to. Physical exam is notable for bilateral ptosis with a sluggish pupillary response, a very weak sucking and gag reflex, and shallow respirations. The patient is currently drooling and his diaper is dry. The parents state he has not had a bowel movement in over 1 day. Which of the following is the pathophysiology of this patient’s condition? A: Antibodies against postsynaptic nicotinic cholinergic ion channels, B: Autoantibodies against the presynaptic voltage-gated calcium channels, C: Autoimmune demyelination of peripheral nerves, D: Blockade of presynaptic acetylcholine release at the neuromuscular junction, E: Lower motor neuron destruction in the anterior horn
+
+### Response:
+1. What are the key clinical findings?
+Progressive weakness, initially in the upper extremities, now involving the legs; bilateral ptosis; sluggish pupils; weak gag and sucking reflexes; shallow breathing; drooling; constipation; and dry diaper—indicating urinary retention.
+2. What is the temporal profile of the condition?
+The symptoms began that morning and worsened throughout the day, consistent with an acute, rapidly progressing illness.
+3. What is the pattern of neurological involvement?
+The patient exhibits a descending pattern of flaccid paralysis, beginning with cranial nerves and progressing to the limbs.
+4. Are any autonomic features present?
+Yes—constipation, drooling, and urinary retention are classic signs of autonomic nervous system involvement.
+5. Are cranial nerves involved?
+Yes—evidence includes bilateral ptosis (CN III), weak gag reflex (CN IX/X), poor sucking (CN V/VII), and drooling (CN VII/IX).
+6. What is the patient’s age and developmental status?
+He is 1 year old with no reported developmental delays. This age group is particularly susceptible to infant botulism.
+7. What are the possible categories of conditions?
+The differential includes:
+Neuromuscular junction disorders (e.g., botulism, congenital myasthenia)
+Motor neuron diseases (e.g., spinal muscular atrophy)
+Peripheral nerve demyelination (e.g., Guillain-Barré syndrome)
+Infectious causes (e.g., poliomyelitis)
+CNS lesions (less likely in this case)
+8. What diseases match the clinical pattern?
+Infant botulism closely matches the combination of descending weakness, cranial nerve involvement, and autonomic dysfunction. Other possibilities (e.g., SMA, congenital myasthenia) lack the autonomic features or present differently.
+9. What is the pathophysiologic mechanism behind each answer choice?
+A: Myasthenia gravis – antibodies target postsynaptic acetylcholine receptors
+B: Lambert-Eaton – antibodies against presynaptic calcium channels
+C: Guillain-Barré – autoimmune demyelination of peripheral nerves
+D: Botulism – blocks presynaptic acetylcholine release via SNARE protein cleavage
+E: SMA/Polio – destruction of lower motor neurons in anterior horn
+10. Which mechanism best explains all findings?
+The only mechanism that explains the combination of descending paralysis, cranial nerve signs, and autonomic dysfunction in a 1-year-old is the blockade of presynaptic acetylcholine release, as occurs in infant botulism.
+The answer is D: Blockade of presynaptic acetylcholine release at the neuromuscular junction.
+
+### Instruction:
+A 23-year-old man comes to the physician for evaluation of decreased hearing, dizziness, and ringing in his right ear for the past 6 months. Physical examination shows multiple soft, yellow plaques and papules on his arms, chest, and back. There is sensorineural hearing loss and weakness of facial muscles bilaterally. His gait is unsteady. An MRI of the brain shows a 3-cm mass near the right internal auditory meatus and a 2-cm mass at the left cerebellopontine angle. The abnormal cells in these masses are most likely derived from which of the following embryological structures? A: Neural tube, B: Surface ectoderm, C: Neural crest, D: Notochord, E: Mesoderm
+
+### Response:
+1. What are the key clinical findings?
+The patient presents with bilateral sensorineural hearing loss, bilateral facial weakness, imbalance (unsteady gait), and yellow cutaneous papules. MRI reveals bilateral cerebellopontine angle masses (3 cm on the right, 2 cm on the left).
+2. What is the temporal profile of the condition?
+Symptoms have been gradually progressing over the past 6 months, indicating a slow-growing, chronic process.
+3. What neurological structures are involved?
+Findings suggest involvement of cranial nerves—specifically the vestibulocochlear nerve (CN VIII) due to hearing loss and dizziness, and the facial nerve (CN VII) due to bilateral facial weakness. The gait disturbance implies involvement of cerebellar or vestibular pathways.
+4. Are there associated systemic or cutaneous findings?
+Yes—multiple yellowish plaques and papules are noted on the skin, raising suspicion for a syndromic condition with both cutaneous and neural involvement.
+5. What is the most likely diagnosis and what is the embryological origin of the involved cells?
+The most likely diagnosis is Neurofibromatosis Type II (NF2), given the bilateral cerebellopontine angle tumors consistent with vestibular schwannomas, sensorineural hearing loss, and skin lesions. Vestibular schwannomas arise from Schwann cells, which are derived from the neural crest during embryological development.
+6. What is the most likely cause of bilateral CPA tumors affecting CN VII/VIII in a young adult with associated skin findings, and from which embryological structure are the tumor cells derived?
+The answer is C: Neural crest.
+
+### Instruction:
+A 62-year-old woman comes to the physician because of coughing and fatigue during the past 2 years. In the morning, the cough is productive of white phlegm. She becomes short of breath walking up a flight of stairs. She has hypertension and hyperlipidemia. She has recently retired from working as a nurse at a homeless shelter. She has smoked 1 pack of cigarettes daily for 40 years. Current medications include ramipril and fenofibrate. Her temperature is 36.5°C (97.7°F), respirations are 24/min, pulse is 85/min, and blood pressure is 140/90 mm Hg. Scattered wheezing and rhonchi are heard throughout both lung fields. There are no murmurs, rubs, or gallops but heart sounds are distant. Which of the following is the most likely underlying cause of this patient's symptoms? A: Chronic decrease in pulmonary compliance, B: Local accumulation of kinins, C: Mycobacterial invasion of pulmonary parenchyma, D: Progressive obstruction of expiratory airflow, E: Incremental loss of functional residual capacity
+
+### Response:
+1. What are the key clinical findings?
+Chronic productive cough for over 2 years (especially in the morning), exertional shortness of breath, wheezing, and rhonchi on auscultation. Long-standing smoking history (40 pack-years). No fever or systemic signs.
+2. What is the temporal profile of the condition?
+Symptoms have been persistent and progressive over a 2-year period, consistent with a chronic disease rather than an acute infection or rapidly evolving process.
+3. What systems are involved?
+Primarily the pulmonary system, particularly the airways. The presence of chronic cough, sputum production, and wheezing suggests lower respiratory tract involvement and airflow obstruction.
+4. Are there any relevant risk factors?
+Yes—extensive history of cigarette smoking, which is the major risk factor for chronic bronchitis and emphysema (i.e., chronic obstructive pulmonary disease, or COPD). Other comorbidities include hypertension and hyperlipidemia, but these are less relevant to the respiratory presentation.
+5. What pathophysiologic process best accounts for the symptoms?
+The combination of chronic cough, sputum production, exertional dyspnea, wheezing, and a long smoking history is characteristic of chronic bronchitis, a form of COPD. This is driven by progressive obstruction of expiratory airflow due to airway inflammation, mucus hypersecretion, and bronchial narrowing.
+6. What is the most likely cause of chronic cough, dyspnea, and wheezing in a long-term smoker, and what mechanism underlies the condition?
+The answer is D: Progressive obstruction of expiratory airflow.
+
+### Instruction:
+A 67-year-old man with transitional cell carcinoma of the bladder comes to the physician because of a 2-day history of ringing sensation in his ear. He received this first course of neoadjuvant chemotherapy 1 week ago. Pure tone audiometry shows a sensorineural hearing loss of 45 dB. The expected beneficial effect of the drug that caused this patient's symptoms is most likely due to which of the following actions? A: Inhibition of proteasome, B: Hyperstabilization of microtubules, C:Generation of free radicals, D: Cross-linking of DNA
+
+### Response:

@@ -1,0 +1,7 @@
+You are a moderator. There will be two debaters involved in a debate competition. They will present their answers and discuss their perspectives on this debate topic:
+{question}
+Affirmative side argument:
+{aff}
+Negative side argument:
+{neg}
+You will evaluate both sides’ answers and decide which one is correct. In the end of your response, write your final answer in the format of "The answer is: <ANSWER>."

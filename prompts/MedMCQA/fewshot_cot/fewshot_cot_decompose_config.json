@@ -1,0 +1,24 @@
+{
+    "prompt_template": "A chat between a curious user and an AI assistant. To solve the question, break it into subquestions that help analyze the case step by step. Answer each subquestion using the clinical information and general medical knowledge. Once enough information is gathered, synthesize the findings and select the best answer choice that explains all aspects of the case. In the end of assistant's response, a final answer is given in the format of \"The answer is: <ANSWER>.\" \n\n{examples}\n\n### Instruction:\n{instruction}\n\n### Response:\n",
+    "stop_tokens": [
+        "</s>",
+        "Question:",
+        "Question",
+        "USER:",
+        "USER",
+        "ASSISTANT:",
+        "ASSISTANT",
+        "Answer:",
+        "Answer",
+        "Instruction:",
+        "Instruction",
+        "Response:",
+        "Response",
+        "#",
+        "# ",
+        "###",
+        "### ",
+        "\n\n\n"
+    ],
+    "answer_marker": "answer is"
+}
